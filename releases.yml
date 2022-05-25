@@ -1,0 +1,13 @@
+releases:
+  - version: 0.0.1
+    download_win_x64: "0.0.1.exe"
+    changes:
+      - Added logging for improved debugging
+      - Added update checking
+      - Added program icon 
+  - version: 0.0.2
+    download_win_x64: "0.0.2.exe"
+    changes:
+      - Bugfixes
+      - Performance improvements
+      - New features
